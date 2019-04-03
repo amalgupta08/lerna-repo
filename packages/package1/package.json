@@ -1,5 +1,5 @@
 {
-  "name": "@amalgupta08/pkg4",
+  "name": "@amalgupta08/pkg1",
   "version": "1.0.4",
   "description": "Package 1",
   "keywords": [
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/amalgupta08/lerna-repo/issues"
   },
-  "gitHead": "fc947423237b6d78279051bb341e2750cc517148",
+  "gitHead": "51ac04d2cd9ed4a6e19a228c41d79673d4ad1c5a",
   "publishConfig": {
     "access": "public"
   }

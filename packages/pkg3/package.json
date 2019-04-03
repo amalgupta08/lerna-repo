@@ -1,5 +1,5 @@
 {
-  "name": "@malagupta08/pkg3",
+  "name": "@amalgupta08/pkg3",
   "version": "1.0.1",
   "description": "pkg3",
   "author": "Amal Gupta <amal.g.gupta@oracle.com>",
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "51ac04d2cd9ed4a6e19a228c41d79673d4ad1c5a"
 }
