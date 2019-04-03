@@ -1,0 +1,26 @@
+{
+  "name": "@malagupta08/pkg3",
+  "version": "1.0.0",
+  "description": "pkg3",
+  "author": "Amal Gupta <amal.g.gupta@oracle.com>",
+  "homepage": "https://github.com/amalgupta08/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/pkg3.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalgupta08/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/amalgupta08/lerna-repo/issues"
+  }
+}
