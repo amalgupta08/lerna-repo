@@ -3,5 +3,9 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalgupta08/lerna-repo.git"
   }
 }
