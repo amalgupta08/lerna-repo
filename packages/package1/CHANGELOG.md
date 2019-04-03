@@ -1,6 +1,20 @@
 # [1.1.0](https://github.com/amalgupta08/lerna-repo/compare/@amalgupta08/pkg1@1.1.0...@amalgupta08/pkg1@1.1.0) (2019-04-03)
 
 
+### Features
+
+* New changes ([6fc28d9](https://github.com/amalgupta08/lerna-repo/commit/6fc28d9))
+
+
+### BREAKING CHANGES
+
+* New Breaking change
+
+
+
+# [1.1.0](https://github.com/amalgupta08/lerna-repo/compare/@amalgupta08/pkg1@1.1.0...@amalgupta08/pkg1@1.1.0) (2019-04-03)
+
+
 ### Bug Fixes
 
 * package name update ([a18a7f8](https://github.com/amalgupta08/lerna-repo/commit/a18a7f8))
