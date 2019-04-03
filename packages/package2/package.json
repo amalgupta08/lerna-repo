@@ -1,0 +1,29 @@
+{
+  "name": "package2",
+  "version": "2.0.0",
+  "description": "Package 2",
+  "keywords": [
+    "package2"
+  ],
+  "author": "Amal Gupta <amal.g.gupta@oracle.com>",
+  "homepage": "https://github.com/amalgupta08/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/package2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalgupta08/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/amalgupta08/lerna-repo/issues"
+  }
+}
