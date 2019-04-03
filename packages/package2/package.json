@@ -1,5 +1,5 @@
 {
-  "name": "package2",
+  "name": "@amalgupta08/pkg2",
   "version": "2.0.1",
   "description": "Package 2",
   "keywords": [
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/amalgupta08/lerna-repo/issues"
-  }
+  },
+  "gitHead": "0c4c07e7cbe5eb0c6b64379a727375bf20dc0cb0"
 }
