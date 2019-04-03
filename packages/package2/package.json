@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/amalgupta08/lerna-repo/issues"
   },
-  "gitHead": "fc947423237b6d78279051bb341e2750cc517148"
+  "gitHead": "fc947423237b6d78279051bb341e2750cc517148",
+  "publishConfig": {
+    "access": "public"
+  }
 }
