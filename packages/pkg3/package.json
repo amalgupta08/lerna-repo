@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/amalgupta08/lerna-repo/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
