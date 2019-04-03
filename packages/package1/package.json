@@ -29,5 +29,8 @@
   "gitHead": "51ac04d2cd9ed4a6e19a228c41d79673d4ad1c5a",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.0.12"
   }
 }
